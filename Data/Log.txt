@@ -1,0 +1,15 @@
+
+60211688 Thu Nov 03 23:32:09 KST 2022 Server addStudent
+60211688 Thu Nov 03 23:32:11 KST 2022 Server getAllStudentData
+60211688 Thu Nov 03 23:32:36 KST 2022 Server getAllCourseData
+60211688 Thu Nov 03 23:32:59 KST 2022 Server addCourse
+60211688 Thu Nov 03 23:33:11 KST 2022 Server deleteStudent
+60211688 Thu Nov 03 23:33:13 KST 2022 Server getAllStudentData
+60211688 Thu Nov 03 23:33:43 KST 2022 Server addStudent
+60211688 Thu Nov 03 23:33:46 KST 2022 Server getAllRegistrationData
+60211688 Thu Nov 03 23:33:55 KST 2022 Server Registrate
+60211688 Thu Nov 03 23:34:08 KST 2022 Server getAllStudentData
+60211688 Thu Nov 03 23:34:15 KST 2022 Server getAllStudentData
+20090421 Thu Nov 03 23:34:19 KST 2022 Server Registrate
+20090421 Thu Nov 03 23:37:00 KST 2022 Server getAllStudentData
+60211688 Thu Nov 03 23:37:07 KST 2022 Server Registrate
